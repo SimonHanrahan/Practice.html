@@ -15,7 +15,7 @@ src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></scri
 <body>
 <div class="jumbotron text-center">
   <h1>TroutBang</h1>
-  <p>Home to the New Age of interactive trout fishing in NZ!</p>
+  <p>Home to the New Age of sharing trout fishing in NZ!</p>
 </div>
 
 
